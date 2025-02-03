@@ -4,3 +4,5 @@ This is the repository containing all the notebooks with respect to data process
 The full MPST dataset could not be uploaded to the large size. The dataset can be downloaded from: https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags/data
 
 A sample of the MPST data which the models used is included.
+
+The results of each model are also included.
