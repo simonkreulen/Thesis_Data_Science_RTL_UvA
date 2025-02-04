@@ -13,4 +13,4 @@ The full MPST dataset could not be uploaded to the large size. The dataset can b
 
 A sample of the MPST data which the models used is included.
 
-The results of each model are also included.
+Samples of the results of each model are also included.
