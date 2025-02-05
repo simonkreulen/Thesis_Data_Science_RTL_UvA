@@ -1,5 +1,5 @@
 # Thesis_Data_Science_RTL_UvA
-This is the repository containing all the notebooks with respect to data processing, model development, evaluation, and validation for my thesis research. 
+This is the repository containing all the notebooks with respect to data processing, model development, results, evaluation, and validation for my thesis research. 
 
 This research is aimed at finding a way to replace humans in contextual tag generation for movie content. 
 
